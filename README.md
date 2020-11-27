@@ -244,70 +244,72 @@ Exactly Realising a Prescribed Degree Sequence</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(121).pdf" style="text-decoration:none;">A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(122).pdf" style="text-decoration:none;">Federated Learning over Wireless Fading Channels</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(122).pdf" style="text-decoration:none;">Expected Nodes: a quality function for the detection of link communities</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(123).pdf" style="text-decoration:none;">Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(123).pdf" style="text-decoration:none;">Generalizing k-Betweenness Centrality Using Short Paths and a Parallel Multithreaded Implementation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(124).pdf" style="text-decoration:none;">A Federated Learning Approach for Mobile Packet Classification</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(124).pdf" style="text-decoration:none;">Graph clustering</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(125).pdf" style="text-decoration:none;">Edge AIBench: Towards Comprehensive End-to-end Edge Computing Benchmarking</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(125).pdf" style="text-decoration:none;">GraphX: Graph Processing in a
+Distributed Dataflow Framework</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(126).pdf" style="text-decoration:none;">Motivating Workers in Federated Learning: A Stackelberg Game Perspective</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(126).pdf" style="text-decoration:none;">Group Proximity Measure for Recommending Groups in Online Social Networks</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(127).pdf" style="text-decoration:none;">Two-stage Federated Phenotyping and Patient Representation Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(127).pdf" style="text-decoration:none;">Predicting interactions between individuals with structural and dynamical information</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(128).pdf" style="text-decoration:none;">Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(128).pdf" style="text-decoration:none;">The network of the International Criminal Court decisions as a complex system</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(129).pdf" style="text-decoration:none;">Scheduling Policies for Federated Learning in Wireless Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(129).pdf" style="text-decoration:none;">Heuristic Algorithm for Approximation Betweenness Centrality Using Graph Coarsening</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(130).pdf" style="text-decoration:none;">Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges</a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(130).pdf" style="text-decoration:none;">Outskewer: Using Skewness to Spot Outliers in Samples and Time Series</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(131).pdf" style="text-decoration:none;">Towards Effective Device-Aware
-Federated Learning</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(131).pdf" style="text-decoration:none;">Measurement of eDonkey Activity
+with Distributed Honeypots</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(132).pdf" style="text-decoration:none;">Decentralized Federated Learning: A Segmented Gossip Approach</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(132).pdf" style="text-decoration:none;">Ten weeks in the life of an eDonkey server</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(133).pdf" style="text-decoration:none;">Federated Learning:
-Challenges, Methods, and Future Directions</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(133).pdf" style="text-decoration:none;">HyperANF: Approximating the Neighbourhood Function of Very Large Graphs on a Budget</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(134).pdf" style="text-decoration:none;">An End-to-End Encrypted Neural Network for Gradient Updates Transmission in Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(134).pdf" style="text-decoration:none;">Fast dynamics in Internet topology: observations and first explanations</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(135).pdf" style="text-decoration:none;">Federated Imitation Learning: A Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(135).pdf" style="text-decoration:none;">Temporal Patterns of Pedophile Activity in a P2P Network: First Insights about User Profiles from Big Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(136).pdf" style="text-decoration:none;">Energy Demand Prediction with Federated Learning for Electric Vehicle Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(137).pdf" style="text-decoration:none;">Hierarchical Federated Learning Across Heterogeneous Cellular Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(138).pdf" style="text-decoration:none;">First Analysis of Local GD on Heterogeneous Data</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(139).pdf" style="text-decoration:none;">Gradient Descent with Compressed Iterates</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(140).pdf" style="text-decoration:none;">Tighter Theory for Local SGD on Identical and Heterogeneous Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(136).pdf" style="text-decoration:none;">Impact of Temporal Features of Cattle Exchanges on the Size and Speed of Epidemic Outbreaks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(137).pdf" style="text-decoration:none;">Measuring Routing Tables in the Internet</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(138).pdf" style="text-decoration:none;">Quantifying Paedophile Queries
+in a Large P2P System</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(139).pdf" style="text-decoration:none;">Rigorous Measurement of IP-level Neighborhood of Internet Core Routers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(140).pdf" style="text-decoration:none;">Bipartite Structure of All Complex Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(141).pdf" style="text-decoration:none;"> Byzantine-Robust Federated Learning through Adaptive Model Averaging</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(142).pdf" style="text-decoration:none;">HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(143).pdf" style="text-decoration:none;">Communication-Efficient Distributed Optimization in Networks with Gradient Tracking and Variance Reduction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(144).pdf" style="text-decoration:none;">Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(145).pdf" style="text-decoration:none;">On Safeguarding Privacy and Security in the Framework of Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(141).pdf" style="text-decoration:none;"> Clustering in P2P exchanges
+and consequences on performances</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(142).pdf" style="text-decoration:none;">Comparing overlapping properties of real bipartite networks</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(143).pdf" style="text-decoration:none;">Extracting and Visualising Tree-like Structures from Concept Lattices</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(144).pdf" style="text-decoration:none;">Statistical analysis of a P2P query graph based on degrees and their time-evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(145).pdf" style="text-decoration:none;">Citations among blogs in a hierarchy of communities: method and case study</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(146).pdf" style="text-decoration:none;">BAFFLE : Blockchain Based Aggregator Free Federated Learning</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(147).pdf" style="text-decoration:none;">A Joint Learning and Communications Framework for Federated Learning over Wireless Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(147).pdf" style="text-decoration:none;">Group Formation in Large Social Networks: Membership, Growth, and Evolution</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(148).pdf" style="text-decoration:none;">Measure Contribution of Participants in Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(148).pdf" style="text-decoration:none;">Large-Graph Layout Algorithms at Work: An Experimental Study</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(149).pdf" style="text-decoration:none;">Detailed comparison of communication efficiency of split learning and federated learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(149).pdf" style="text-decoration:none;">Quantifying Paedophile Activity
+in a Large P2P System</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(150).pdf" style="text-decoration:none;">Federated Learning in Mobile Edge Networks: A Comprehensive Survey</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(150).pdf" style="text-decoration:none;">Long range community detection</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(151).pdf" style="text-decoration:none;">Model Pruning Enables Efficient Federated Learning on Edge Devices </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(151).pdf" style="text-decoration:none;">Characterizing and predicting mobile application usage </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(152).pdf" style="text-decoration:none;">Improving Federated Learning Personalization via Model Agnostic Meta Learning </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(153).pdf" style="text-decoration:none;">Federated User Representation Learning</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(154).pdf" style="text-decoration:none;">Cell-Free Massive MIMO
-for Wireless Federated Learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(152).pdf" style="text-decoration:none;">RankMerging: Learning to rank in large-scale social networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(153).pdf" style="text-decoration:none;">Predicting links in ego-networks using temporal information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(154).pdf" style="text-decoration:none;">Loglog Counting of Large Cardinalities (Extended Abstract)</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(155).pdf" style="text-decoration:none;">Active Federated Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(155).pdf" style="text-decoration:none;">Listing k-cliques in Sparse Real-World Graphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(156).pdf" style="text-decoration:none;">Towards Federated Graph Learning for Collaborative Financial Crimes Detection</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(157).pdf" style="text-decoration:none;">FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(156).pdf" style="text-decoration:none;">Combining structural and dynamic information to predict activity in link streams</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(157).pdf" style="text-decoration:none;">Dynamic Community Detection</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(158).pdf" style="text-decoration:none;">The Non-IID Data Quagmire of Decentralized Machine Learning</a></li>
    
  
@@ -318,50 +320,53 @@ for Wireless Federated Learning</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(161).pdf" style="text-decoration:none;">Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(162).pdf" style="text-decoration:none;">Confederated learning: training machine learning models using disconnected data separated by individual, data type and identity for Large-Scale Health System Intelligence</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(163).pdf" style="text-decoration:none;">Privacy Preserving Stochastic Channel-Based Federated Learning with Neural Network Pruning</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(163).pdf" style="text-decoration:none;">Multi-ego-centered communities in practice</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(164).pdf" style="text-decoration:none;">Differential Privacy-enabled Federated Learning for Sensitive Health Data</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(164).pdf" style="text-decoration:none;">Complex Network Measurements: Estimating the Relevance of Observed Properties</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(165).pdf" style="text-decoration:none;">Accelerating Federated Learning via Momentum Gradient Descent</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(165).pdf" style="text-decoration:none;">Termination of Multipartite Graph Series Arising from Complex Network Modelling</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(166).pdf" style="text-decoration:none;">FedMD: Heterogenous Federated Learning via Model Distillation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(166).pdf" style="text-decoration:none;">On the Termination of Some Biclique Operators on Multipartite Graphs</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(167).pdf" style="text-decoration:none;">High-Dimensional Stochastic Gradient Quantization for Communication-Efficient Edge Learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(167).pdf" style="text-decoration:none;">Link prediction in bipartite graphs using internal links and weighted projection</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(168).pdf" style="text-decoration:none;">Central Server Free Federated Learning over Single-sided Trust Social Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(169).pdf" style="text-decoration:none;">Quantification of the Leakage in Federated Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(170).pdf" style="text-decoration:none;">Federated Transfer Reinforcement Learning for Autonomous Driving</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(171).pdf" style="text-decoration:none;">Eavesdrop the Composition Proportion of Training Labels in Federated Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(172).pdf" style="text-decoration:none;">SCAFFOLD: Stochastic Controlled Averaging for Federated Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(173).pdf" style="text-decoration:none;">Federated Learning for Coalition Operations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(168).pdf" style="text-decoration:none;">Age, Gender and Communication Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(169).pdf" style="text-decoration:none;">Data-driven traffic and diffusion modeling in peer-to-peer networks: A real case study</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(170).pdf" style="text-decoration:none;">Identifying Roles in an IP Network
+with Temporal and Structural Density</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(171).pdf" style="text-decoration:none;">Measuring the Degree Distribution of Routers in the Core Internet</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(172).pdf" style="text-decoration:none;">Tracking the Evolution of Temporal Patterns of Usage in Bicycle-Sharing Systems Using Nonnegative Matrix Factorization on Multiple Sliding Windows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(173).pdf" style="text-decoration:none;">Enhancing Space-Aware Community Detection Using Degree Constrained Spatial Null Model</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(174).pdf" style="text-decoration:none;">Reliable Federated Learning for Mobile Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(175).pdf" style="text-decoration:none;">Overcoming Forgetting in Federated Learning on Non-IID Data</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(176).pdf" style="text-decoration:none;">Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(174).pdf" style="text-decoration:none;">Using Degree Constrained Gravity Null-Models to understand the structure of journeys' networks in Bicycle Sharing Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(175).pdf" style="text-decoration:none;">A general graph-based framework for top-N recommendation using content, temporal and trust information</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(176).pdf" style="text-decoration:none;">Time Weight Content-Based Extensions of Temporal Graphs for Personalized Recommendation</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(177).pdf" style="text-decoration:none;">Federated Generative Privacy</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(177).pdf" style="text-decoration:none;">On Two-Dimensional Sparse Matrix Partitioning: Models, Methods, and a Recipe</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(178).pdf" style="text-decoration:none;">Privacy-preserving Federated Bayesian Learning of a Generative Model for Imbalanced Classification of Clinical Data</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(179).pdf" style="text-decoration:none;">Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(178).pdf" style="text-decoration:none;">P2PTV Multi-channel Peers Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(179).pdf" style="text-decoration:none;">Impact of power-law topology on
+IP-level routing dynamics: simulation results</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(180).pdf" style="text-decoration:none;">Federated Neuromorphic Learning of Spiking Neural Networks for Low-Power Edge Intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(180).pdf" style="text-decoration:none;">Towards multi-ego-centered communities: a node similarity approach</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(181).pdf" style="text-decoration:none;">Abnormal Client Behavior Detection in Federated Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(182).pdf" style="text-decoration:none;">Meta Matrix Factorization for Federated Rating Predictions </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(181).pdf" style="text-decoration:none;">Tracking bitcoin users activity using community detection on a network of weak signals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(182).pdf" style="text-decoration:none;">Combining path-constrained random walks to recover link weights in heterogeneous information networks </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(183).pdf" style="text-decoration:none;">Federated Evaluation of On-device Personalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(184).pdf" style="text-decoration:none;">Gradient Sparification for Asynchronous Distributed Training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(184).pdf" style="text-decoration:none;">Centrality metrics in dynamic networks: a comparison study</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(185).pdf" style="text-decoration:none;">Real-World Image Datasets for Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(185).pdf" style="text-decoration:none;">Pattern Matching in Link Streams:
+a Token-based Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(186).pdf" style="text-decoration:none;">Stochastic Channel-Based Federated Learning for Medical Data Privacy Preserving</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(186).pdf" style="text-decoration:none;">Dynamics of three-state excitable units on Poisson vs power-law random networks</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(187).pdf" style="text-decoration:none;">Substra: a framework for privacy-preserving, traceable and collaborative Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(187).pdf" style="text-decoration:none;">Learning a Proximity Measure to Complete a Community</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(188).pdf" style="text-decoration:none;">Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(188).pdf" style="text-decoration:none;">PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(189).pdf" style="text-decoration:none;">A blockchain-orchestrated Federated Learning architecture for healthcare consortia</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(190).pdf" style="text-decoration:none;">Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(189).pdf" style="text-decoration:none;">Pregel: A System for Large-Scale Graph Processing</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(190).pdf" style="text-decoration:none;">Interaction Prediction Problems in Link Streams</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(191).pdf" style="text-decoration:none;">Secure and Efficient Federated Transfer Learning  </a></li>
  
