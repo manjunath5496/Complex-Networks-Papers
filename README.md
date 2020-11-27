@@ -439,7 +439,8 @@ an efficient "whom to mention?" Twitter app</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(223).pdf" style="text-decoration:none;">Static community detection algorithms for evolving networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(224).pdf" style="text-decoration:none;"> LouvainNE: Hierarchical Louvain Method for High Quality and Scalable Network Embedding </a></li>
 
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(225).pdf" style="text-decoration:none;">Form and function of complex networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(226).pdf" style="text-decoration:none;"> Learning latent structure in complex networks </a></li>
  
  
  </ul>
