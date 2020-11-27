@@ -70,7 +70,7 @@ Predicting and Recommending Links in Social Networks</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(34).pdf" style="text-decoration:none;">Quantifying the diversity in users activity: an example study on online music platforms</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(35).pdf" style="text-decoration:none;">Learning Rate Adaptation for Federated and Differentially Private Learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(35).pdf" style="text-decoration:none;">The structure and function of complex networks</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(36).pdf" style="text-decoration:none;">RankMerging: A supervised learning-to-rank framework to predict links in large social networks</a></li> 
  
@@ -91,7 +91,7 @@ for the Lossy Compression of Link Streams</a></li>
 in link streams with durations</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(47).pdf" style="text-decoration:none;">Approximating the Temporal Neighbourhood Function of Large Temporal Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(48).pdf" style="text-decoration:none;">Joint Service Pricing and Cooperative Relay Communication for Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(48).pdf" style="text-decoration:none;">Complex Networks and their Contribution to Real Network Design- A Survey</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(49).pdf" style="text-decoration:none;">Internal links and pairs as a new tool for the analysis of bipartite complex networks</a></li>
                               
@@ -119,7 +119,7 @@ in the Blogosphere</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(62).pdf" style="text-decoration:none;">Efficient and simple generation of random simple connected graphs with prescribed degree sequence</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(63).pdf" style="text-decoration:none;">Expanding the Reach of Federated Learning by Reducing Client Resource Requirements</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(63).pdf" style="text-decoration:none;">Information Theory of Complex Networks: on evolution and architectural constraints</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(64).pdf" style="text-decoration:none;">Detection, understanding, and prevention of traceroute measurement artifacts</a></li>
  
@@ -162,7 +162,7 @@ Random Graphs Have No Communities</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(81).pdf" style="text-decoration:none;">Multi-ego-centered communities</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(82).pdf" style="text-decoration:none;">Federated Learning Of Out-Of-Vocabulary Words</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(82).pdf" style="text-decoration:none;">Local network effects and complex network structure</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(83).pdf" style="text-decoration:none;">Strongly Connected Components in Stream Graphs: Computation and Experimentations</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(84).pdf" style="text-decoration:none;">Degree-based Outlier Detection within IP Traffic Modelled as a Link Stream</a></li>
@@ -180,7 +180,8 @@ Distributed Explorations of the Internet Topology: Qualitative Results</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(91).pdf" style="text-decoration:none;">Description and simulation of dynamic mobility networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(92).pdf" style="text-decoration:none;">Time Evolution of the Importance of Nodes in dynamic Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(93).pdf" style="text-decoration:none;"> MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(93).pdf" style="text-decoration:none;"> Complex Network Phenomena in
+Telecommunication Systems</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(94).pdf" style="text-decoration:none;">Complex Network Metrology</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(95).pdf" style="text-decoration:none;">Relevance of SIR Model for Real-world Spreading Phenomena: Experiments on a Large-scale P2P System</a></li>  
@@ -211,7 +212,7 @@ of the Internet Degree Distribution</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(106).pdf" style="text-decoration:none;">Efficient Measurement of Complex Networks Using Link Queries</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(107).pdf" style="text-decoration:none;">Variational Federated Multi-Task Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(107).pdf" style="text-decoration:none;">Online Community Detection for Large Complex Networks</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(108).pdf" style="text-decoration:none;">Error and attack tolerance
@@ -222,12 +223,12 @@ of complex networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(110).pdf" style="text-decoration:none;">Direct Generation of Random Graphs
 Exactly Realising a Prescribed Degree Sequence</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(111).pdf" style="text-decoration:none;">Active Learning Solution on Distributed Edge Computing</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(111).pdf" style="text-decoration:none;">Research Frontier in Chaos Theory and Complex Networks</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(112).pdf" style="text-decoration:none;">Internet routing paths stability model and relation to forwarding paths</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(113).pdf" style="text-decoration:none;">Astraea: Self-balancing Federated Learning for Improving Classification Accuracy of Mobile Deep Learning Applications</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(113).pdf" style="text-decoration:none;">Statistical mechanics of complex networks</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(114).pdf" style="text-decoration:none;">Fast algorithm for detecting community structure in networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Complex-Networks-Papers/blob/master/con(115).pdf" style="text-decoration:none;">Fast Approximation Algorithms for the Diameter and Radius of Sparse Graphs</a></li>  
